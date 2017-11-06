@@ -5,7 +5,7 @@ a long time coming as we were not able to spend time on maintainance or contribu
 content.
 
 A big thank you to all of our past users and contributors, and to
-[Claris Media](https://clarismedia.com) for providing hosting.
+[Claris Media/Fernie Fix](http://ferniefix.com) for providing hosting.
 
 ### Contact
 
